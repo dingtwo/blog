@@ -43,15 +43,6 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 
       <p>回首向来萧瑟处，</p>
       <p>归去，也无风雨也无晴。</p>
-      <p>
-        Read the blog posts or check
-        <LinkButton
-          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
-      </p>
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (

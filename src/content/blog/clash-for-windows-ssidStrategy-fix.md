@@ -2,8 +2,8 @@
 author: dinger
 pubDatetime: 2024-09-11 21:55:17
 modDatetime: 2024-09-11 21:55:17
-title: clash-for-wondows在 mac 的 ssidStrategy 功能修复
-slug: clash-for-wondows在 mac 的 ssidStrategy 功能修复
+title: clash-for-wondows 在 mac 的 ssidStrategy 功能修复
+slug: clash-for-wondows在mac的ssidStrategy功能修复
 featured: false
 draft: false
 tags:
